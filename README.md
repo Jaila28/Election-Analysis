@@ -5,17 +5,24 @@
 In this Analysis, I was asked by Election Board Employee named Tom to assist in an election audit of Tabulated results for Congressional Precinct in Colorado. I was asked to report the following below:
 
 *Total number of votes cast
+
 *A complete list of candidates who received votes
+
 *Total number of votes each candidate received
+
 *Percentage of votes each candidate won
+
 *The winner of the election based on popular vote
 
 #Resources
-The Data Source: Election_Results.csv
-Software Python 3.6.7, Visual Studio Code
+
+*The Data Source: Election_Results.csv
+
+*Software Python 3.6.7, Visual Studio Code
 
 ##Summary
-The analysis of the election show that: 
+
+#The analysis of the election showed that: 
 -There were 369,711 vost casted in the election
 -The Candidates where:
 
