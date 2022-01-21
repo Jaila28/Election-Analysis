@@ -36,7 +36,7 @@ The analysis of the election show that:
 
 -The winner of the election was:
 
-   Diana DeGette: received 272,892 votes which was 73.8% of the total of votes.
+   Diana DeGette who received 272,892 votes, which was 73.8% of the total votes submitted.
     
 ##Challenge Overview
 
